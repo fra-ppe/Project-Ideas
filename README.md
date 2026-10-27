@@ -1,6 +1,10 @@
 # Project Ideas And Plans 
 > Project ideas, guides, and a roadmap of intentions to not get lost. Ideas are subject to change and adaptation.
 
+**Navigation**: 
+Home || [Priorities](PRIORITIES.md)
+
+
 <img style="height: 150px; margin-left: auto; margin-right: auto; content-align: center;" alt="cat on computer, drawn by basiilleaf" src="https://github.com/user-attachments/assets/4e2f0996-7e74-42da-954d-33e5613681f0" />
 
 
