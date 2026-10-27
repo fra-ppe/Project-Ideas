@@ -1,6 +1,10 @@
 # Priorities and Project Order
 > To have a sense of order and focus.
 
+
+**Navigation**: 
+[Home](README.md) || Priorities
+
 <img height="150" alt="image" src="https://github.com/user-attachments/assets/9220cc24-5b94-4610-9617-8bfa130621ce" />
 
 
