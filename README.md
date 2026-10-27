@@ -8,6 +8,9 @@
 
 ### Apps
 
+- Digital Tarot Reader: Customizable digital tarot reader that lays out tarot spreads.
+- Lil' Battery Jr: Notify when laptop battery reaches specific charge %, for battery longevity. (maybe switch laptop battery usage to charger) Adjustable appearance.
+- Lil' Bot jr: Discord bot.
 - Read-It-Later-App: alternative to omnivore + browser addon
 - Artsy: App to help Art Block. Art prompts, timed art drills, lists of master artists, and inspiration moodboards
 - Archiver: backup social media followers, blocklist, and following
@@ -15,9 +18,6 @@
 - Local-Private-Inspoboard: display and collect local images like pinterest boards, and manage inspiration
 - Webcessible: A Chrome/Firefox extension that lets users tweak web accessibility instantly: font size, line spacing, dyslexia-friendly fonts, dark mode, color-blind filters, screen reader summaries.
 - TickTicket: Help Desk and Ticket system.
-- Digital Tarot Reader: Customizable digital tarot reader that lays out tarot spreads.
-- Lil' Battery Jr: Notify when laptop battery reaches specific charge %, for battery longevity. (maybe switch laptop battery usage to charger) Adjustable appearance.
-- Lil' Bot jr : discord bot
 - Tracklytics: Private, local music player with play analytics, like most played artist or track. (like "wrapped" style infographics)
 - Vanillium Job Tracker: Python script that scrapes job listing boards and aggregates specific job postings, for automating the research phase of job applying.
 - PaceAid: Pacing app compatible with smart watches. To help in "pacing and energy managemet" of chronic illnesses, like ME/CFs
